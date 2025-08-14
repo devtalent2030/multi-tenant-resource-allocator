@@ -1,0 +1,6 @@
+minute,a_need_cpu,a_need_ram,b_need_cpu,b_need_ram,a_alloc_cpu,a_alloc_ram,b_alloc_cpu,b_alloc_ram,a_sla_ok,b_sla_ok,a_cost,b_cost,cpu_fairness
+0,9,6,0,0,9,6,0,0,1,1,0.0065,0.0,0.5
+1,11,8,0,0,11,8,0,0,1,1,0.008,0.0,0.5
+2,7,6,0,0,7,6,0,0,1,1,0.005167,0.0,0.5
+3,9,8,0,0,9,8,0,0,1,1,0.006667,0.0,0.5
+4,9,6,0,0,9,6,0,0,1,1,0.0065,0.0,0.5
